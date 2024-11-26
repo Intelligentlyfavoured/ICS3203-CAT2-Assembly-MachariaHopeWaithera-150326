@@ -44,18 +44,26 @@ The program demonstrates branching logic using conditional and unconditional jum
    ```bash
    nasm -f bin <filename>.asm -o <filename>.com
 
-ICS3203-CAT2-Assembly-MachariaHopeWaithera-150326>/
+ICS3203-CAT2-Assembly-MachariaHopeWaithera-150326/
+
+
 │
 ├── Task1-ControlFlow/
 │   ├── TASK1.asm
+
+
 │  
 │
 ├── Task2-ArrayReversal/
 │   ├── TASK2.asm
+
+
 │   
 │
 ├── Task3-FactorialSubroutine/
 │   ├── TASK3.asm
+
+
 │   
 │
 └── Task4-PortSimulation/
