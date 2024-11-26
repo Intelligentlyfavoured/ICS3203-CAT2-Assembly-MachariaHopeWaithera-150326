@@ -1,7 +1,7 @@
-# ICS3203-CAT2-Assembly-HopeMacharia
+# ICS3203-CAT2-Assembly-MachariaHopeWaithera
 
 ## Overview
-This repository contains assembly language programs developed for the CAT2 assignment in the ICS3203 course. The tasks cover fundamental concepts in assembly programming, including control flow, array manipulation, modular programming, and data monitoring with port-based simulation.
+This repository contains assembly language programs developed for the CAT2 assignment. The tasks cover concepts in assembly programming, including control flow, array manipulation, modular programming, and data monitoring with port-based simulation.
 
 ---
 
@@ -34,5 +34,33 @@ The program demonstrates branching logic using conditional and unconditional jum
 ### Steps to Compile and Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ICS3203-CAT2-Assembly-HopeMacharia.git
-   cd ICS3203-CAT2-Assembly-HopeMacharia
+   git clone https://github.com/Intelligentlyfavoured/ICS3203-CAT2-Assembly-MachariaHopeWaithera.git
+  
+
+2. Navigate to the desired task directory:
+   ```bash
+   cd  cd ICS3203-CAT2-Assembly-HopeMacharia
+3. Assemble the code using an assembler: filename in this case represents TASK1, TASK2, TASK3, TASK4
+   ```bash
+   nasm -f bin <filename>.asm -o <filename>.com
+
+ICS3203-CAT2-Assembly-MachariaHopeWaithera-150326>/
+│
+├── Task1-ControlFlow/
+│   ├── TASK1.asm
+│  
+│
+├── Task2-ArrayReversal/
+│   ├── TASK2.asm
+│   
+│
+├── Task3-FactorialSubroutine/
+│   ├── TASK3.asm
+│   
+│
+└── Task4-PortSimulation/
+    ├── TASK4.asm
+    
+
+
+   
