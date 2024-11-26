@@ -1,6 +1,6 @@
-; Program: Factorial Calculation (Fixed)
+; Program: Factorial Calculation 
 ; Description: Calculates factorial of a number (0-12)
-; Author: Corrected
+; Author: Hope Macharia
 ; Date: November 2024
 
 section .data
