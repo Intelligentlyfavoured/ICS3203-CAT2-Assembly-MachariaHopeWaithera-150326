@@ -39,7 +39,7 @@ The program demonstrates branching logic using conditional and unconditional jum
 
 2. Navigate to the desired task directory:
    ```bash
-   cd  cd ICS3203-CAT2-Assembly-HopeMacharia
+   cd ICS3203-CAT2-Assembly-HopeMacharia
 3. Assemble the code using an assembler: filename in this case represents TASK1, TASK2, TASK3, TASK4
    ```bash
    nasm -f bin <filename>.asm -o <filename>.com
